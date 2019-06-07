@@ -42,14 +42,13 @@ In general, we follow the "fork-and-pull" Git workflow.
 * Create a branch locally with a succinct but descriptive name
 * Commit changes to the branch
 * Push changes to your fork
-* Make sure to review the repository's CONTRIBUTING.md guide
 * Open a Pull Request in the repository (not your own fork) and follow the PR template so that we can efficiently review the changes.
 
 NOTE: Be sure to merge the latest from "upstream" before making a pull request.
 
 ## Getting in touch
 
-### Got a question or problem?
+### Have a question or problem?
 
 Please do not open issues for general support or usage questions. Instead, join us over in the Auth0 community at [community.auth0.com](https://community.auth0.com) and post your question there in the correct category with a descriptive tag.
 

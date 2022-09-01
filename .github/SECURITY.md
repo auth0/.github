@@ -1,4 +1,6 @@
 # Security Policy
+# google policy 
+# microsoft security 
 
 This document outlines the Responsible Disclosure Program for Auth0
 open source software.

@@ -22,4 +22,4 @@ page](https://auth0.com/responsible-disclosure-policy/).
 If individuals prefer to directly communicate with the Auth0 security team,
 they are invited to send an email to security@auth0.com For encrypted
 communication, you can download our PGP key from
-[here](https://cdn.auth0.com/website/security/pgp/171A6588004C96B6A8E8A130B54BE3C0D18F0FE7.pub)
+[here](https://cdn.auth0.com/website/security/pgp/9D7974452991EFC17CB3A965D6D00C19B8F9A085.pub)
